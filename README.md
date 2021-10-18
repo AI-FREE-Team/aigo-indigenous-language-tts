@@ -43,25 +43,13 @@
 synthesis_speech(model, text=input_text, figures=True, path=wav_path+wav_name)
 ```
 
-## License 授權
-
-<a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/3.0/tw/88x31.png" /></a> (CC BY-NC-SA 4.0)<br />本資料集適用 <a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International</a> 授權。
-<br />The dataset applied <a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International</a> license.
-
-※ 使用、改作、分享請附上以下資訊：
-
- - 本數據集由 AI . FREE Team 改作開發自 [STUST EECS_Chinese MNIST(總集)]。如有使用、改作、分享，請註明出處及此訊息。
- 
- - The dataset is AI . FREE Team development from [STUST EECS_Chinese MNIST(總集)]. If used, modified, or shared, please cite the source and the mesage.
- 
- - (source: https://github.com/AI-FREE-Team/aigo-indigenous-language-tts )
 
 <br>
 
 ## Citing
 ```
 @misc{AI.FREE2020,
-  author = {You-Qian Lee},
+  author = {Po-Chuan Chen, Chung-Chia Cheng, You-Qian Lee},
   title = {aigo-indigenous-language-tts},
   year = {2021},
   publisher = {GitHub},
